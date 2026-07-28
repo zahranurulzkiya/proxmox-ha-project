@@ -38,6 +38,7 @@ KVM + Virt-Manager
 ## Repository Structure
 
 ```
+config/
 docs/
 scripts/
 screenshots/
