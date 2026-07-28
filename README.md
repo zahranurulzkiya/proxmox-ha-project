@@ -32,7 +32,7 @@ KVM + Virt-Manager
          \           /
        Shared NFS Storage
               |
-          Alpine QDevice
+           QDevice
 ```
 
 ## Repository Structure
