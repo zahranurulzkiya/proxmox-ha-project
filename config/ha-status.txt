@@ -1,0 +1,5 @@
+quorum OK
+master pve-node2 (active, Tue Jul 28 14:32:56 2026)
+lrm pve-node1 (active, Tue Jul 28 14:33:00 2026)
+lrm pve-node2 (idle, Tue Jul 28 14:32:58 2026)
+service vm:300 (pve-node1, started)
