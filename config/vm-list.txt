@@ -1,0 +1,2 @@
+      VMID NAME                 STATUS     MEM(MB)    BOOTDISK(GB) PID       
+       300 VM 300               running    1024               3.00 980   
